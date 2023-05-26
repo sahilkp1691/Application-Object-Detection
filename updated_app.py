@@ -43,7 +43,7 @@ def object_detection(image_path):
 
 def app():
     # Set the app title
-    st.set_page_config(page_title='Object Detection', page_icon=':camera:')
+    st.set_page_config(page_title='Object__ Detection', page_icon=':camera:')
 
     # Add a sidebar with an upload file input
     st.sidebar.title('Upload Image')
